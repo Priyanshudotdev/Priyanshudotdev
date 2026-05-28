@@ -1,8 +1,5 @@
 <div align="center">
   
-<img src="https://i.postimg.cc/PqNkWKkT/pic.webp" alt="banner" width="100%" style="border-radius: 8px;" />
-
-
 # Priyanshu Sandeep Kayarkar
 20 · Engineer · Designer
 
