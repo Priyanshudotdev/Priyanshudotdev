@@ -20,13 +20,13 @@
 
 🔷 **things i've built**
 
-* **[Engineering India YCCE](https://eiycce.vercel.app)** — Full-stack platform for a student-led club at YCCE Nagpur. Automated QR ticketing that processed 5,000+ tickets, 5+ events, 3,000+ attendees. Built with Next.js 14, Turso, Drizzle ORM, and Better-Auth. Load-tested to 600+ req/sec.
+* **[Engineering India YCCE](https://eiycce.vercel.app)** — Full-stack platform for a student-led club at YCCE Nagpur. Automated QR ticketing that processed 5,000+ tickets, 5+ events, 3,000+ attendees.
 
 * **[Rolex Studio](https://rolexstudio.vercel.app)** — Marketing agency website built to convert. Social media management, content strategy, paid ads across Instagram, Facebook, and LinkedIn. Next.js + Supabase + shadcn/ui.
 
 * **[Maadhyam](https://maadhyam-it.vercel.app/)** — Digital publication platform for a college magazine. 20+ reusable components — article cards, author bios, issue covers, category filters. Clean typographic design system for long-form reading.
 
-* **[Super Natural Kitchens](https://supernaturalkitchens.vercel.app/)** — Premium interior design showcase with scroll-based animations, parallax effects, and fluid transitions via Framer Motion. Built with React + Vite + Tailwind. Full-bleed imagery, interactive hover states.
+* **[Super Natural Kitchens](https://supernaturalkitchens.vercel.app/)** — Simple static UI only website.
 
 * **[AspinUrl](https://github.com/Priyanshudotdev/AspinUrl-Frontend)** — URL shortener. TypeScript, clean UI, does exactly what it says.
 
