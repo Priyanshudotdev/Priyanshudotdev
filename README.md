@@ -36,7 +36,7 @@
 
 🔷 **what i'm into right now**
 
-* building **[zencode](https://github.com/Priyanshudotdev/zencode)**simpler and minimal version of claude code. 
+* building **[zencode](https://github.com/Priyanshudotdev/zencode)** simpler and minimal version of claude code. 
 * learning system design, cloud infrastructure, and how AI actually integrates into real deployment pipelines.
 * grinding design (UI/UX skill).
 
