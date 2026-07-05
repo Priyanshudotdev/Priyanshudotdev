@@ -36,9 +36,9 @@
 
 🔷 **what i'm into right now**
 
-* building **[nextleet](https://github.com/Priyanshudotdev/nextleet.priyanshuu.tech)** a chrome extension that automatically syncs your leetcode submissions to github. solving the "where did that solution go" problem once and for all.
+* building **[zencode](https://github.com/Priyanshudotdev/zencode)**simpler and minimal version of claude code. 
 * learning system design, cloud infrastructure, and how AI actually integrates into real deployment pipelines.
-* picking up golang on the side and grinding design (UI/UX skill).
+* grinding design (UI/UX skill).
 
 ---
 
