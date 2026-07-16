@@ -14,7 +14,7 @@
 
 🔷 **my goto stack**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,java,python,go" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,java" />
 
 ---
 
